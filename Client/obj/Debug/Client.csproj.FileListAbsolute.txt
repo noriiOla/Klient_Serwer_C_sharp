@@ -1,0 +1,5 @@
+F:\studia\sem 6\pracaWlasna\RSI\z5B\WcfService\Client\bin\Debug\Client.exe.config
+F:\studia\sem 6\pracaWlasna\RSI\z5B\WcfService\Client\bin\Debug\Client.exe
+F:\studia\sem 6\pracaWlasna\RSI\z5B\WcfService\Client\bin\Debug\Client.pdb
+F:\studia\sem 6\pracaWlasna\RSI\z5B\WcfService\Client\obj\Debug\Client.exe
+F:\studia\sem 6\pracaWlasna\RSI\z5B\WcfService\Client\obj\Debug\Client.pdb
